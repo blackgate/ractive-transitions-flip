@@ -1,0 +1,17 @@
+{
+  "name": "ractive-transitions-flip",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blackgate/ractive-transitions-flip.git"
+  },
+  "description": "Ractive flip transition",
+  "main": "index.js",
+  "author": "Hugo Pires",
+  "license": "MIT",
+  "keywords": [
+    "ractive",
+    "transition",
+    "flip"
+  ],
+}
